@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mirato-order-summary.netlify.app/)
+- Live Site URL: [Live Site](https://mirato-order-summary.netlify.app/)
 
 ### Built with
 
